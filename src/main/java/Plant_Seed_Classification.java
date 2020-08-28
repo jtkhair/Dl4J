@@ -13,6 +13,8 @@ public class Plant_Seed_Classification {
     private static int  width = 50;
     private static int channel = 3;
 
+    private static int batchsize = 24;
+
     public static void main(String[] args) throws Exception{
 
     }
